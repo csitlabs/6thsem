@@ -1,0 +1,11 @@
+Q1/
+├── Controllers/
+│   └── StudentController.cs
+├── Models/
+│   └── Student.cs
+├── Views/
+│   └── Student/
+│       └── Index.cshtml
+├── Program.cs
+├── appsettings.json
+├── Q1.csproj

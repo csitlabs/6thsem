@@ -1,0 +1,19 @@
+﻿@model List<Q2.Models.Student>
+<h2>Practical 3, Question 2</h2>
+<h3>Student Information</h3>
+
+<ul>
+    @foreach (var student in Model)
+    {
+        <li>@student.Name - @student.Department</li>
+    }
+</ul>
+
+<p>
+    <footer>
+        <strong>----------</strong><br />
+        Name: Bimochan Poudel<br />
+        Class Roll: 21-00031-5 (20780638)<br />
+        TU Roll: 28555/078
+    </footer>
+</p>

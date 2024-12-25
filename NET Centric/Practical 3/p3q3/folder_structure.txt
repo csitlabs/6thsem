@@ -1,0 +1,25 @@
+Q3/
+├── Controllers/
+│   └── OfficerController.cs
+├── Models/
+│   └── Officer.cs
+    └── AppDbContext.cs
+
+├── Views/
+│   └── Officer/
+│       └── Index.cshtml
+	└── Edit.cshtml
+├── Program.cs
+├── appsettings.json (Requires connection string to database)
+├── Q3.csproj
+
+
+Pkg Mgr Console Commands
+
+Install-Package Microsoft.EntityFrameworkCore
+Install-Package Microsoft.EntityFrameworkCore.SqlServer
+Install-Package Microsoft.EntityFrameworkCore.Tools
+
+
+Add-Migration InitialCreate
+Update-Database

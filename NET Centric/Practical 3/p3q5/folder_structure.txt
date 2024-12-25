@@ -1,0 +1,15 @@
+Q5
+├── /Controllers
+│   └── HomeController.cs
+├── /Models
+│   └── StateModel.cs
+├── /Views
+│   └── /Home
+│       ├── Index.cshtml
+├── /wwwroot
+│   ├── /css
+│   ├── /js
+│   └── /lib
+├── appsettings.json
+├── Program.cs
+├── Q5.csproj

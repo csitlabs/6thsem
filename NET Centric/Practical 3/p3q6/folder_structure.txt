@@ -1,0 +1,18 @@
+Q6/
+│
+├── Controllers/
+│   └── HomeController.cs
+│
+├── Views/
+│   └── Home/
+│       └── Index.cshtml
+│
+├── wwwroot/
+│   ├── js/
+│   │   └── script.js
+│   └── css/
+│       └── site.css
+│
+├── Program.cs
+├── Q6.csproj
+└── appsettings.json
