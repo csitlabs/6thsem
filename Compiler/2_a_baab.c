@@ -45,9 +45,9 @@ int main()
     }
 
     if (state == 3)
-        printf("The string is accepted\n");
+        printf("The string is accepted.\n");
     else
-        printf("The string is invalid\n");
+        printf("The string is invalid.\n");
 
     return 0;
 }

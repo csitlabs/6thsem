@@ -28,6 +28,6 @@ int main()
     printf("Enter an expression: ");
     fgets(expression, 100, stdin);
     int count = count_operators(expression);
-    printf("The number of operators in the expression is %d\n", count);
+    printf("The number of operators in the expression is %d.\n", count);
     return 0;
 }
