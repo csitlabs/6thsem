@@ -1,0 +1,5 @@
+Watch this yt video for flex installation.
+
+https://youtu.be/jqps7nYAkto?si=cjj0FirIVVnyBwF-
+
+If gcc is not found, install gcc & add environment variable.
